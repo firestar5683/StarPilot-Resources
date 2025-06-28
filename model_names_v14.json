@@ -34,11 +34,6 @@
       "version": "v5"
     },
     {
-      "id": "kerrygold",
-      "name": "Kerrygold 👀📡",
-      "version": "v7"
-    },
-    {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "experimental": "True",
@@ -99,6 +94,11 @@
       "name": "SecretGoodOpenpilot 👀📡",
       "experimental": "True",
       "version": "v5"
+    },
+    {
+      "id": "tomb-raider",
+      "name": "Vikander 👀📡",
+      "version": "v7"
     }
   ]
 }

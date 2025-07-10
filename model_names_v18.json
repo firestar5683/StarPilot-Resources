@@ -1,0 +1,139 @@
+{
+  "models": [
+    {
+      "id": "wd-40",
+      "name": "WD-40 (Default) 👀📡",
+      "version": "v2"
+    },
+    {
+      "id": "alabama",
+      "name": "Alabama 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "certified-herbalist",
+      "name": "Certified Herbalist 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "dragon-rider",
+      "name": "Dragon Rider 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "duck-amigo",
+      "name": "Duck Amigo 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "frankenweenie",
+      "name": "Frankenweenie 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "last-horizon",
+      "name": "Last Horizon 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "north-america",
+      "name": "North America 👀📡",
+      "experimental": "True",
+      "version": "v6"
+    },
+    {
+      "id": "national-public-radio",
+      "name": "National Public Radio 👀📡",
+      "experimental": "True",
+      "version": "v6"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡",
+      "version": "v2"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Notre Dame 👀📡",
+      "version": "v4"
+    },
+    {
+      "id": "null-pointer",
+      "name": "Null Pointer 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "postal-service",
+      "name": "Postal Service 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "radical-turtle",
+      "name": "Radical Turtle 👀",
+      "experimental": "True",
+      "version": "v3"
+    },
+    {
+      "id": "recertified-herbalist",
+      "name": "Recertified Herbalist 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "secret-good-openpilot",
+      "name": "SecretGoodOpenpilot 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "tr14",
+      "name": "TR14 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "trx",
+      "name": "TRX 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "vikander",
+      "name": "Vikander 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "fof",
+      "name": "Filet-O-Fish 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "vfof",
+      "name": "Vegetarian-Filet-O-Fish 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "dtr",
+      "name": "Down To Ride 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "sp",
+      "name": "Simple Plan 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "kerrygold",
+      "name": "Kerrygold 👀📡",
+      "version": "v9"
+    }
+  ]
+}

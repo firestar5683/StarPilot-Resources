@@ -127,12 +127,17 @@
     },
     {
       "id": "spacelab2",
-      "name": "Space Lab 👀📡",
+      "name": "Space Lab 1 👀📡",
       "version": "v8"
     },
     {
       "id": "spacelab22",
-      "name": "Space Labv2 👀📡",
+      "name": "Space Lab 1 v2 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "spacelab222",
+      "name": "Space Lab 2 👀📡",
       "version": "v8"
     },
     {

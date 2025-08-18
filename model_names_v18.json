@@ -217,12 +217,17 @@
     },
     {
       "id": "wm2",
-      "name": "WM 👀📡",
+      "name": "Watermelon 👀📡",
       "version": "v10"
     },
     {
       "id": "gwm2",
-      "name": "gWM 👀📡",
+      "name": "Green Watermelon 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "gwm22",
+      "name": "Green Watermelon v2 👀📡",
       "version": "v10"
     },
     {

@@ -1,0 +1,259 @@
+{
+  "models": [
+    {
+      "id": "wd-40",
+      "name": "WD-40 (Default) 👀📡",
+      "version": "v2"
+    },
+    {
+      "id": "alabama",
+      "name": "Alabama 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "certified-herbalist",
+      "name": "Certified Herbalist 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "dragon-rider",
+      "name": "Dragon Rider 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "duck-amigo",
+      "name": "Duck Amigo 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "frankenweenie",
+      "name": "Frankenweenie 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "last-horizon",
+      "name": "Last Horizon 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "north-america",
+      "name": "North America 👀📡",
+      "experimental": "True",
+      "version": "v6"
+    },
+    {
+      "id": "national-public-radio",
+      "name": "National Public Radio 👀📡",
+      "experimental": "True",
+      "version": "v6"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡",
+      "version": "v2"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Notre Dame 👀📡",
+      "version": "v4"
+    },
+    {
+      "id": "null-pointer",
+      "name": "Null Pointer 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "postal-service",
+      "name": "Postal Service 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "radical-turtle",
+      "name": "Radical Turtle 👀",
+      "experimental": "True",
+      "version": "v3"
+    },
+    {
+      "id": "recertified-herbalist",
+      "name": "Recertified Herbalist 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "secret-good-openpilot",
+      "name": "SecretGoodOpenpilot 👀📡",
+      "experimental": "True",
+      "version": "v5"
+    },
+    {
+      "id": "tr142",
+      "name": "TR14 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "tr152",
+      "name": "TR15 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "letr2",
+      "name": "LeTR 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "letrh2",
+      "name": "LeTRh 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "trx2",
+      "name": "TRX 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "tr162",
+      "name": "TR16 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "tr1622",
+      "name": "TR16v2 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "spacelab2",
+      "name": "Space Lab 1 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "spacelab22",
+      "name": "Space Lab 1 v2 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "spacelab222",
+      "name": "Space Lab 2 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "spacelab32",
+      "name": "Space Lab 3 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "spacelab322",
+      "name": "Space Lab 3 v2 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "vikander2",
+      "name": "Vikander 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "vibe2",
+      "name": "Vibe 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "fof2",
+      "name": "Filet-O-Fish 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "vfof2",
+      "name": "Vegetarian-Filet-O-Fish 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "vefof2",
+      "name": "Vegan-Filet-O-Fish 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "dtr2",
+      "name": "Down To Ride 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "dtr62",
+      "name": "Down To Ride v6 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "uvdtr62",
+      "name": "UV DTR v6 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "sp2",
+      "name": "Simple Plan 👀📡",
+      "version": "v10"
+    },
+   {
+      "id": "sp22",
+      "name": "Steam Powered 👀📡",
+      "version": "v10"
+    },
+   {
+      "id": "sp32",
+      "name": "Steam Powered v2 👀📡",
+      "version": "v11"
+    },
+    {
+      "id": "fp2",
+      "name": "Falling Phoenix 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "vj2",
+      "name": "Vibe Jr 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "kv2",
+      "name": "Kumar's Vibe 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "wm2",
+      "name": "Watermelon 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "gwm2",
+      "name": "Green Watermelon 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "gwm22",
+      "name": "Green Watermelon v2 👀📡",
+      "version": "v10"
+    },
+    {
+      "id": "gwm32",
+      "name": "Green Watermelon v3 👀📡",
+      "version": "v11"
+    },
+    {
+      "id": "bd2",
+      "name": "Firehose 👀📡",
+      "version": "v11"
+    },
+    {
+      "id": "kerrygold2",
+      "name": "Kerrygold 👀📡",
+      "version": "v9"
+    }
+  ]
+}

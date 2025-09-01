@@ -3,257 +3,306 @@
     {
       "id": "wd-40",
       "name": "WD-40 (Default) 👀📡",
-      "version": "v2"
+      "version": "v2",
+      "series": "Classic Series"
     },
     {
       "id": "alabama",
       "name": "Alabama 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Classic Series"
     },
     {
       "id": "certified-herbalist",
       "name": "Certified Herbalist 🗺️👀📡",
-      "version": "v1"
+      "version": "v1",
+      "series": "Classic Series"
     },
     {
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Classic Series"
     },
     {
       "id": "duck-amigo",
       "name": "Duck Amigo 🗺️👀📡",
-      "version": "v1"
+      "version": "v1",
+      "series": "Classic Series"
     },
     {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Custom Series"
     },
     {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Classic Series"
     },
     {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡",
-      "version": "v1"
+      "version": "v1",
+      "series": "Classic Series"
     },
     {
       "id": "north-america",
       "name": "North America 👀📡",
       "experimental": "True",
-      "version": "v6"
+      "version": "v6",
+      "series": "Classic Series"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
       "experimental": "True",
-      "version": "v6"
+      "version": "v6",
+      "series": "Classic Series"
     },
     {
       "id": "north-dakota",
       "name": "North Dakota 👀📡",
-      "version": "v2"
+      "version": "v2",
+      "series": "Classic Series"
     },
     {
       "id": "notre-dame",
       "name": "Notre Dame 👀📡",
-      "version": "v4"
+      "version": "v4",
+      "series": "Classic Series"
     },
     {
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Classic Series"
     },
     {
       "id": "postal-service",
       "name": "Postal Service 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Classic Series"
     },
     {
       "id": "radical-turtle",
       "name": "Radical Turtle 👀",
       "experimental": "True",
-      "version": "v3"
+      "version": "v3",
+      "series": "Classic Series"
     },
     {
       "id": "recertified-herbalist",
       "name": "Recertified Herbalist 🗺️👀📡",
-      "version": "v1"
+      "version": "v1",
+      "series": "Classic Series"
     },
     {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
       "experimental": "True",
-      "version": "v5"
+      "version": "v5",
+      "series": "Classic Series"
     },
     {
       "id": "tr142",
       "name": "TR14 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "tr152",
       "name": "TR15 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "letr2",
       "name": "LeTR 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "letrh2",
       "name": "LeTRh 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "trx2",
       "name": "TRX 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "tr162",
       "name": "TR16 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "tr1622",
       "name": "TR16v2 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "TR Series"
     },
     {
       "id": "spacelab2",
       "name": "Space Lab 1 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "SL Series"
     },
     {
       "id": "spacelab22",
       "name": "Space Lab 1 v2 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "SL Series"
     },
     {
       "id": "spacelab222",
       "name": "Space Lab 2 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "SL Series"
     },
     {
       "id": "spacelab32",
       "name": "Space Lab 3 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "SL Series"
     },
     {
       "id": "spacelab322",
       "name": "Space Lab 3 v2 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "SL Series"
     },
     {
       "id": "vikander2",
       "name": "Vikander 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "Custom Series"
     },
     {
       "id": "vibe2",
       "name": "Vibe 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "Custom Series"
     },
     {
       "id": "fof2",
       "name": "Filet-O-Fish 👀📡",
-      "version": "v9"
+      "version": "v9",
+      "series": "FoF Series"
     },
     {
       "id": "vfof2",
       "name": "Vegetarian-Filet-O-Fish 👀📡",
-      "version": "v9"
+      "version": "v9",
+      "series": "FoF Series"
     },
     {
       "id": "vefof2",
       "name": "Vegan-Filet-O-Fish 👀📡",
-      "version": "v9"
+      "version": "v9",
+      "series": "FoF Series"
     },
     {
       "id": "dtr2",
       "name": "Down To Ride 👀📡",
-      "version": "v8"
+      "version": "v8",
+      "series": "DTR Series"
     },
     {
       "id": "dtr62",
       "name": "Down To Ride v6 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "DTR Series"
     },
     {
       "id": "uvdtr62",
       "name": "UV DTR v6 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "DTR Series"
     },
     {
       "id": "sp2",
       "name": "Simple Plan 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "SP Series"
     },
-   {
+    {
       "id": "sp22",
       "name": "Steam Powered 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "SP Series"
     },
-   {
+    {
       "id": "sp32",
       "name": "Steam Powered v2 👀📡",
-      "version": "v11"
+      "version": "v11",
+      "series": "SP Series"
     },
     {
       "id": "fp2",
       "name": "Falling Phoenix 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "Custom Series"
     },
     {
       "id": "vj2",
       "name": "Vibe Jr 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "Custom Series"
     },
     {
       "id": "kv2",
       "name": "Kumar's Vibe 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "Custom Series"
     },
     {
       "id": "wm2",
       "name": "Watermelon 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "WM Series"
     },
     {
       "id": "gwm2",
       "name": "Green Watermelon 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "WM Series"
     },
     {
       "id": "gwm22",
       "name": "Green Watermelon v2 👀📡",
-      "version": "v10"
+      "version": "v10",
+      "series": "WM Series"
     },
     {
       "id": "gwm32",
       "name": "Green Watermelon v3 👀📡",
-      "version": "v11"
+      "version": "v11",
+      "series": "WM Series"
     },
     {
       "id": "bd2",
       "name": "Firehose 👀📡",
-      "version": "v11"
+      "version": "v11",
+      "series": "WM Series"
     },
     {
       "id": "kerrygold2",
       "name": "Kerrygold 👀📡",
-      "version": "v9"
+      "version": "v9",
+      "series": "FoF Series"
     }
   ]
 }

@@ -7,6 +7,12 @@
       "series": "Classic Series"
     },
     {
+      "id": "wd-40",
+      "name": "WD-40 Default 👀📡",
+      "version": "v2",
+      "series": "Classic Series"
+    },
+    {
       "id": "alabama",
       "name": "Alabama 👀📡",
       "experimental": "True",

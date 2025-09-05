@@ -311,6 +311,12 @@
       "series": "WM Series"
     },
     {
+      "id": "fbw2",
+      "name": "Fly By Wire 👀📡",
+      "version": "v11",
+      "series": "WM Series"
+    },
+    {
       "id": "kerrygold2",
       "name": "Kerrygold 👀📡",
       "version": "v9",

@@ -350,13 +350,19 @@
       "id": "nevada2",
       "name": "Nevada 👀📡",
       "version": "v11",
-      "series": "WM Series"
+      "series": "NV Series"
     },
     {
       "id": "nn2",
       "name": "North Nevada 👀📡",
       "version": "v11",
-      "series": "WM Series"
+      "series": "NV Series"
+    },
+    {
+      "id": "nn22",
+      "name": "North Nevada v2 👀📡",
+      "version": "v11",
+      "series": "NV Series"
     },
     {
       "id": "kerrygold2",

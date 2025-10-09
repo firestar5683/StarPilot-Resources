@@ -365,6 +365,12 @@
       "series": "NV Series"
     },
     {
+      "id": "nid2",
+      "name": "Nuggets in Dijon 👀📡",
+      "version": "v11",
+      "series": "NUG Series"
+    },
+    {
       "id": "kerrygold2",
       "name": "Kerrygold 👀📡",
       "version": "v9",

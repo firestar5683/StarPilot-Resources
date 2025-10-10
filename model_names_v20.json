@@ -341,6 +341,12 @@
       "series": "TCP Series"
     },
     {
+      "id": "tcp22",
+      "name": "The Cool People v2 👀📡",
+      "version": "v11",
+      "series": "TCP Series"
+    },
+    {
       "id": "fbw2",
       "name": "Fly By Wire 👀📡",
       "version": "v11",

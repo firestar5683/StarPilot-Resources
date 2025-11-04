@@ -347,6 +347,12 @@
       "series": "WM Series"
     },
     {
+      "id": "st2",
+      "name": "ST Model 👀📡",
+      "version": "v11",
+      "series": "ST Series"
+    },
+    {
       "id": "tcp2",
       "name": "The Cool People 👀📡",
       "version": "v11",

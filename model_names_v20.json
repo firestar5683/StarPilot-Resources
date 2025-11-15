@@ -151,7 +151,7 @@
       "experimental": "True",
       "version": "v5",
       "series": "Classic Series",
-      "released": "2023-04-01",
+      "released": "2025-05-16",
       "community_favorite": false
     },
     {
@@ -159,7 +159,7 @@
       "name": "TR14 👀📡",
       "version": "v8",
       "series": "TR Series",
-      "released": "2023-11-06",
+      "released": "2025-06-30",
       "community_favorite": false
     },
     {
@@ -167,7 +167,7 @@
       "name": "TR15 👀📡",
       "version": "v8",
       "series": "TR Series",
-      "released": "2023-11-06",
+      "released": "2025-07-11",
       "community_favorite": false
     },
     {
@@ -175,7 +175,7 @@
       "name": "LeTR 👀📡",
       "version": "v8",
       "series": "TR Series",
-      "released": "2023-11-06",
+      "released": "2025-07-14",
       "community_favorite": false
     },
     {
@@ -183,7 +183,7 @@
       "name": "LeTRh 👀📡",
       "version": "v8",
       "series": "TR Series",
-      "released": "2023-11-06",
+      "released": "2025-07-17",
       "community_favorite": false
     },
     {
@@ -199,7 +199,7 @@
       "name": "TR16 👀📡",
       "version": "v8",
       "series": "TR Series",
-      "released": "2023-11-06",
+      "released": "2025-07-21",
       "community_favorite": false
     },
     {
@@ -207,7 +207,7 @@
       "name": "TR16v2 👀📡",
       "version": "v8",
       "series": "TR Series",
-      "released": "2023-11-06",
+      "released": "2025-07-21",
       "community_favorite": false
     },
     {
@@ -223,7 +223,7 @@
       "name": "Space Lab 1 v2 👀📡",
       "version": "v8",
       "series": "SL Series",
-      "released": "2023-11-11",
+      "released": "2025-07-26",
       "community_favorite": false
     },
     {
@@ -231,7 +231,7 @@
       "name": "Space Lab 2 👀📡",
       "version": "v8",
       "series": "SL Series",
-      "released": "2023-11-11",
+      "released": "2025-07-24",
       "community_favorite": false
     },
     {
@@ -255,7 +255,7 @@
       "name": "Vikander 👀📡",
       "version": "v8",
       "series": "Custom Series",
-      "released": "2023-11-31",
+      "released": "2025-05-03",
       "community_favorite": false
     },
     {
@@ -263,7 +263,7 @@
       "name": "Vibe 👀📡",
       "version": "v8",
       "series": "Custom Series",
-      "released": "2023-11-31",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -271,7 +271,7 @@
       "name": "Filet-O-Fish 👀📡",
       "version": "v9",
       "series": "FoF Series",
-      "released": "2024-02-16",
+      "released": "2025-03-07",
       "community_favorite": false
     },
     {
@@ -279,7 +279,7 @@
       "name": "Vegetarian-Filet-O-Fish 👀📡",
       "version": "v9",
       "series": "FoF Series",
-      "released": "2024-02-16",
+      "released": "2025-06-21",
       "community_favorite": false
     },
     {
@@ -295,7 +295,7 @@
       "name": "Down To Ride 👀📡",
       "version": "v8",
       "series": "DTR Series",
-      "released": "2023-11-21",
+      "released": "2025-05-10",
       "community_favorite": false
     },
     {
@@ -303,7 +303,7 @@
       "name": "Down To Ride v6 👀📡",
       "version": "v10",
       "series": "DTR Series",
-      "released": "2024-06-21",
+      "released": "2025-08-12",
       "community_favorite": false
     },
     {
@@ -311,7 +311,7 @@
       "name": "UV DTR v6 👀📡",
       "version": "v10",
       "series": "DTR Series",
-      "released": "2024-06-21",
+      "released": "2025-08-13",
       "community_favorite": false
     },
     {
@@ -319,7 +319,7 @@
       "name": "Simple Plan 👀📡",
       "version": "v10",
       "series": "SP Series",
-      "released": "2024-06-26",
+      "released": "2025-07-07",
       "community_favorite": false
     },
     {
@@ -327,7 +327,7 @@
       "name": "Steam Powered 👀📡",
       "version": "v10",
       "series": "SP Series",
-      "released": "2024-06-26",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -335,7 +335,7 @@
       "name": "Steam Powered v2 👀📡",
       "version": "v11",
       "series": "SP Series",
-      "released": "2024-10-26",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -343,7 +343,7 @@
       "name": "Falling Phoenix 👀📡",
       "version": "v10",
       "series": "Custom Series",
-      "released": "2024-06-31",
+      "released": "2025-08-14",
       "community_favorite": false
     },
     {
@@ -351,7 +351,7 @@
       "name": "Vibe Jr 👀📡",
       "version": "v10",
       "series": "Custom Series",
-      "released": "2024-06-31",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -359,7 +359,7 @@
       "name": "Kumar's Vibe 👀📡",
       "version": "v10",
       "series": "Custom Series",
-      "released": "2024-06-31",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -367,7 +367,7 @@
       "name": "Watermelon 👀📡",
       "version": "v10",
       "series": "WM Series",
-      "released": "2024-06-36",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -383,7 +383,7 @@
       "name": "Green Watermelon v2 👀📡",
       "version": "v10",
       "series": "WM Series",
-      "released": "2024-06-36",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -391,7 +391,7 @@
       "name": "Green Watermelon v3 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-08-17",
       "community_favorite": false
     },
     {
@@ -399,7 +399,7 @@
       "name": "Green Watermelon v4 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-08-22",
       "community_favorite": false
     },
     {
@@ -407,7 +407,7 @@
       "name": "Green Watermelon v5 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-09-04",
       "community_favorite": false
     },
     {
@@ -415,7 +415,7 @@
       "name": "Green Watermelon v6 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-09-20",
       "community_favorite": false
     },
     {
@@ -423,7 +423,7 @@
       "name": "Green Watermelon v7 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-09-27",
       "community_favorite": false
     },
     {
@@ -431,7 +431,7 @@
       "name": "Green Watermelon v8 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-09-28",
       "community_favorite": true
     },
     {
@@ -439,7 +439,7 @@
       "name": "Green Watermelon v9 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-10-21",
       "community_favorite": false
     },
     {
@@ -447,7 +447,7 @@
       "name": "Cool Green Watermelon 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-10-24",
       "community_favorite": true
     },
     {
@@ -455,7 +455,7 @@
       "name": "Firehose 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2024-10-36",
+      "released": "2025-08-31",
       "community_favorite": true
     },
     {
@@ -495,7 +495,7 @@
       "name": "The Cool People v2 👀📡",
       "version": "v11",
       "series": "TCP Series",
-      "released": "2024-10-51",
+      "released": "2025-10-09",
       "community_favorite": false
     },
     {
@@ -503,7 +503,7 @@
       "name": "The Cool People v3 👀📡",
       "version": "v11",
       "series": "TCP Series",
-      "released": "2024-10-51",
+      "released": "2025-10-10",
       "community_favorite": false
     },
     {
@@ -519,7 +519,7 @@
       "name": "Nevada 👀📡",
       "version": "v11",
       "series": "NV Series",
-      "released": "2024-10-56",
+      "released": "2025-09-07",
       "community_favorite": false
     },
     {
@@ -527,7 +527,7 @@
       "name": "North Nevada 👀📡",
       "version": "v11",
       "series": "NV Series",
-      "released": "2024-10-56",
+      "released": "2025-10-07",
       "community_favorite": false
     },
     {
@@ -535,7 +535,7 @@
       "name": "North Nevada v2 👀📡",
       "version": "v11",
       "series": "NV Series",
-      "released": "2024-10-56",
+      "released": "2025-10-08",
       "community_favorite": false
     },
     {
@@ -543,7 +543,7 @@
       "name": "Nuggets in Dijon 👀📡",
       "version": "v11",
       "series": "NUG Series",
-      "released": "2024-10-61",
+      "released": "2025-10-09",
       "community_favorite": false
     },
     {

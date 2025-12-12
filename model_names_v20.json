@@ -571,6 +571,14 @@
       "community_favorite": true
     },
     {
+      "id": "ds22",
+      "name": "Dark Souls v2 👀📡",
+      "version": "v11",
+      "series": "DS Series",
+      "released": "2025-12-12",
+      "community_favorite": false
+    },
+    {
       "id": "nn22",
       "name": "North Nevada v2 👀📡",
       "version": "v11",

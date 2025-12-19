@@ -568,7 +568,7 @@
       "version": "v11",
       "series": "DS Series",
       "released": "2025-12-03",
-      "community_favorite": true
+      "community_favorite": false
     },
     {
       "id": "ds22",
@@ -576,7 +576,7 @@
       "version": "v11",
       "series": "DS Series",
       "released": "2025-12-12",
-      "community_favorite": false
+      "community_favorite": true
     },
     {
       "id": "nn22",

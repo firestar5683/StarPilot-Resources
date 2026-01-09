@@ -643,6 +643,14 @@
       "community_favorite": false
     },
     {
+      "id": "sc",
+      "name": "South Carolina 👀📡",
+      "version": "v11",
+      "series": "SC Series",
+      "released": "2026-01-08",
+      "community_favorite": false
+    },
+    {
       "id": "nid2",
       "name": "Nuggets in Dijon 👀📡",
       "version": "v11",

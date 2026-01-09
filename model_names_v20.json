@@ -17,14 +17,6 @@
       "community_favorite": false
     },
     {
-      "id": "blued",
-      "name": "Blue Diamond 👀📡",
-      "version": "v2",
-      "series": "Classic Series",
-      "released": "2022-08-01",
-      "community_favorite": false
-    },
-    {
       "id": "alabama",
       "name": "Alabama 👀📡",
       "experimental": "True",

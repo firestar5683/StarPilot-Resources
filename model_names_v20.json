@@ -448,7 +448,7 @@
       "version": "v11",
       "series": "WM Series",
       "released": "2025-10-24",
-      "community_favorite": true
+      "community_favorite": false
     },
     {
       "id": "bd2",
@@ -664,7 +664,7 @@
       "version": "v11",
       "series": "SC Series",
       "released": "2026-01-08",
-      "community_favorite": false
+      "community_favorite": true
     },
     {
       "id": "nid2",

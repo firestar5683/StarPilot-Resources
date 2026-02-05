@@ -619,6 +619,22 @@
       "community_favorite": false
     },
     {
+      "id": "cd210",
+      "name": "CD210 👀📡",
+      "version": "v11",
+      "series": "OP Series",
+      "released": "2026-02-01",
+      "community_favorite": false
+    },
+    {
+      "id": "op1",
+      "name": "Off Policy 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-04",
+      "community_favorite": false
+    },
+    {
       "id": "ms",
       "name": "Macrostiff 👀📡",
       "version": "v11",

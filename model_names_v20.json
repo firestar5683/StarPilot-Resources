@@ -5,7 +5,7 @@
       "name": "WD-40 👀📡",
       "version": "v2",
       "series": "Classic Series",
-      "released": "2022-08-01",
+      "released": "2024-04-09",
       "community_favorite": false
     },
     {
@@ -13,7 +13,7 @@
       "name": "WD-40 (Default) 👀📡",
       "version": "v2",
       "series": "Classic Series",
-      "released": "2022-08-01",
+      "released": "2024-04-09",
       "community_favorite": false
     },
     {
@@ -30,7 +30,7 @@
       "name": "Certified Herbalist 🗺️👀📡",
       "version": "v1",
       "series": "Classic Series",
-      "released": "2022-06-01",
+      "released": "2024-02-19",
       "community_favorite": false
     },
     {
@@ -47,7 +47,7 @@
       "name": "Duck Amigo 🗺️👀📡",
       "version": "v1",
       "series": "Classic Series",
-      "released": "2022-06-01",
+      "released": "2024-03-18",
       "community_favorite": false
     },
     {
@@ -99,7 +99,7 @@
       "name": "North Dakota 👀📡",
       "version": "v2",
       "series": "Classic Series",
-      "released": "2022-08-01",
+      "released": "2024-04-29",
       "community_favorite": false
     },
     {
@@ -107,7 +107,7 @@
       "name": "Notre Dame 👀📡",
       "version": "v4",
       "series": "Classic Series",
-      "released": "2023-01-01",
+      "released": "2024-07-01",
       "community_favorite": false
     },
     {
@@ -142,7 +142,7 @@
       "name": "Recertified Herbalist 🗺️👀📡",
       "version": "v1",
       "series": "Classic Series",
-      "released": "2022-06-01",
+      "released": "2024-03-01",
       "community_favorite": false
     },
     {
@@ -231,7 +231,7 @@
       "name": "Space Lab 2 👀📡",
       "version": "v8",
       "series": "SL Series",
-      "released": "2025-07-24",
+      "released": "2025-07-26",
       "community_favorite": false
     },
     {
@@ -295,7 +295,7 @@
       "name": "Down To Ride 👀📡",
       "version": "v8",
       "series": "DTR Series",
-      "released": "2025-05-10",
+      "released": "2025-07-08",
       "community_favorite": false
     },
     {
@@ -327,7 +327,7 @@
       "name": "Steam Powered 👀📡",
       "version": "v10",
       "series": "SP Series",
-      "released": "2025-08-15",
+      "released": "2025-08-16",
       "community_favorite": false
     },
     {
@@ -391,7 +391,7 @@
       "name": "Green Watermelon v3 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2025-08-17",
+      "released": "2025-08-22",
       "community_favorite": false
     },
     {
@@ -407,7 +407,7 @@
       "name": "Green Watermelon v5 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2025-09-04",
+      "released": "2025-09-09",
       "community_favorite": false
     },
     {
@@ -511,7 +511,7 @@
       "name": "Fly By Wire 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2025-09-05",
+      "released": "2025-09-04",
       "community_favorite": false
     },
     {
@@ -527,7 +527,7 @@
       "name": "North Nevada 👀📡",
       "version": "v11",
       "series": "NV Series",
-      "released": "2025-10-08",
+      "released": "2025-10-07",
       "community_favorite": false
     },
     {
@@ -623,7 +623,7 @@
       "name": "CD210 👀📡",
       "version": "v11",
       "series": "WM Series",
-      "released": "2026-02-01",
+      "released": "2026-01-31",
       "community_favorite": false
     },
     {
@@ -639,7 +639,7 @@
       "name": "Off Policy v2 👀📡",
       "version": "v12",
       "series": "OP Series",
-      "released": "2026-02-23",
+      "released": "2026-02-20",
       "community_favorite": false
     },
     {
@@ -663,7 +663,7 @@
       "name": "Macrostiff 👀📡",
       "version": "v11",
       "series": "MS Series",
-      "released": "2026-01-02",
+      "released": "2026-01-01",
       "community_favorite": false
     },
     {
@@ -671,7 +671,7 @@
       "name": "Plan Plus 👀📡",
       "version": "v11",
       "series": "PL Series",
-      "released": "2025-12-02",
+      "released": "2025-11-28",
       "community_favorite": false
     },
     {
@@ -695,7 +695,7 @@
       "name": "Dark Souls v2 👀📡",
       "version": "v11",
       "series": "DS Series",
-      "released": "2025-12-12",
+      "released": "2025-12-11",
       "community_favorite": true
     },
     {
@@ -727,7 +727,7 @@
       "name": "Kerrygold 👀📡",
       "version": "v9",
       "series": "FoF Series",
-      "released": "2024-02-16",
+      "released": "2025-06-08",
       "community_favorite": false
     }
   ]

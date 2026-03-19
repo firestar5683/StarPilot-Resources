@@ -1,0 +1,364 @@
+{
+  "models": [
+    {
+      "id": "tr1422",
+      "name": "TR14 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-06-30",
+      "community_favorite": false
+    },
+    {
+      "id": "tr1522",
+      "name": "TR15 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-07-11",
+      "community_favorite": false
+    },
+    {
+      "id": "letr22",
+      "name": "LeTR 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-07-14",
+      "community_favorite": false
+    },
+    {
+      "id": "spacelab2222",
+      "name": "Space Lab 2 👀📡",
+      "version": "v8",
+      "series": "SL Series",
+      "released": "2025-07-26",
+      "community_favorite": false
+    },
+    {
+      "id": "vikander22",
+      "name": "Vikander 👀📡",
+      "version": "v8",
+      "series": "Custom Series",
+      "released": "2025-05-03",
+      "community_favorite": false
+    },
+    {
+      "id": "fof22",
+      "name": "Filet-O-Fish 👀📡",
+      "version": "v9",
+      "series": "FoF Series",
+      "released": "2025-03-07",
+      "community_favorite": false
+    },
+    {
+      "id": "vfof22",
+      "name": "Vegetarian-Filet-O-Fish 👀📡",
+      "version": "v9",
+      "series": "FoF Series",
+      "released": "2025-06-21",
+      "community_favorite": false
+    },
+    {
+      "id": "dtr22",
+      "name": "Down To Ride 👀📡",
+      "version": "v8",
+      "series": "DTR Series",
+      "released": "2025-07-08",
+      "community_favorite": false
+    },
+    {
+      "id": "dtr622",
+      "name": "Down To Ride v6 👀📡",
+      "version": "v10",
+      "series": "DTR Series",
+      "released": "2025-08-12",
+      "community_favorite": false
+    },
+    {
+      "id": "uvdtr622",
+      "name": "UV DTR v6 👀📡",
+      "version": "v10",
+      "series": "DTR Series",
+      "released": "2025-08-13",
+      "community_favorite": false
+    },
+    {
+      "id": "sp222",
+      "name": "Steam Powered 👀📡",
+      "version": "v10",
+      "series": "SP Series",
+      "released": "2025-08-16",
+      "community_favorite": false
+    },
+    {
+      "id": "fp22",
+      "name": "Falling Phoenix 👀📡",
+      "version": "v10",
+      "series": "Custom Series",
+      "released": "2025-08-14",
+      "community_favorite": false
+    },
+    {
+      "id": "kv22",
+      "name": "Kumar's Vibe 👀📡",
+      "version": "v10",
+      "series": "Custom Series",
+      "released": "2025-08-16",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm322",
+      "name": "Green Watermelon v3 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-08-22",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm522",
+      "name": "Green Watermelon v5 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-09",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm622",
+      "name": "Green Watermelon v6 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-20",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm822",
+      "name": "Green Watermelon v8 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-28",
+      "community_favorite": true
+    },
+    {
+      "id": "gwm922",
+      "name": "Green Watermelon v9 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-10-21",
+      "community_favorite": false
+    },
+    {
+      "id": "cgwm22",
+      "name": "Cool Green Watermelon 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-10-24",
+      "community_favorite": false
+    },
+    {
+      "id": "bd22",
+      "name": "Firehose 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-08-31",
+      "community_favorite": false
+    },
+    {
+      "id": "nr22",
+      "name": "Neurips 👀📡",
+      "version": "v11",
+      "series": "NR Series",
+      "released": "2025-11-12",
+      "community_favorite": false
+    },
+    {
+      "id": "tcp222",
+      "name": "The Cool People v2 👀📡",
+      "version": "v11",
+      "series": "TCP Series",
+      "released": "2025-10-09",
+      "community_favorite": false
+    },
+    {
+      "id": "tcp322",
+      "name": "The Cool People v3 👀📡",
+      "version": "v11",
+      "series": "TCP Series",
+      "released": "2025-10-10",
+      "community_favorite": false
+    },
+    {
+      "id": "fbw22",
+      "name": "Fly By Wire 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-04",
+      "community_favorite": false
+    },
+    {
+      "id": "nevada22",
+      "name": "Nevada 👀📡",
+      "version": "v11",
+      "series": "NV Series",
+      "released": "2025-09-07",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi422",
+      "name": "Watermelon Indigo v4 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-12-22",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi52",
+      "name": "Watermelon Indigo v5 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-12-29",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi62",
+      "name": "Watermelon Indigo v6 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-12-30",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi72",
+      "name": "Watermelon Indigo v7 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-01",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi82",
+      "name": "Watermelon Indigo v8 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-03",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi92",
+      "name": "Watermelon Indigo v9 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-07",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi102",
+      "name": "Watermelon Indigo v10 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-09",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi112",
+      "name": "Watermelon Indigo v11 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-13",
+      "community_favorite": false
+    },
+    {
+      "id": "cd2102",
+      "name": "CD210 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-31",
+      "community_favorite": false
+    },
+    {
+      "id": "op22",
+      "name": "Off Policy v2 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-20",
+      "community_favorite": false
+    },
+    {
+      "id": "op32",
+      "name": "Off Policy v3 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-26",
+      "community_favorite": false
+    },
+    {
+      "id": "op42",
+      "name": "Off Policy v4 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-27",
+      "community_favorite": false
+    },
+    {
+      "id": "op52",
+      "name": "Off Policy v5 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-03-14",
+      "community_favorite": false
+    },
+    {
+      "id": "ms2",
+      "name": "Macrostiff 👀📡",
+      "version": "v11",
+      "series": "MS Series",
+      "released": "2026-01-01",
+      "community_favorite": false
+    },
+    {
+      "id": "pp222",
+      "name": "Plan Plus v2 👀📡",
+      "version": "v11",
+      "series": "PL Series",
+      "released": "2025-12-11",
+      "community_favorite": false
+    },
+    {
+      "id": "ds222",
+      "name": "Dark Souls v2 👀📡",
+      "version": "v11",
+      "series": "DS Series",
+      "released": "2025-12-11",
+      "community_favorite": true
+    },
+    {
+      "id": "nn222",
+      "name": "North Nevada v2 👀📡",
+      "version": "v11",
+      "series": "NV Series",
+      "released": "2025-10-08",
+      "community_favorite": false
+    },
+    {
+      "id": "sc2",
+      "name": "South Carolina 👀📡",
+      "version": "v11",
+      "series": "SC Series",
+      "released": "2026-01-08",
+      "community_favorite": true
+    },
+    {
+      "id": "nid22",
+      "name": "Nuggets in Dijon 👀📡",
+      "version": "v11",
+      "series": "NUG Series",
+      "released": "2025-10-09",
+      "community_favorite": false
+    },
+    {
+      "id": "kerrygold22",
+      "name": "Kerrygold 👀📡",
+      "version": "v9",
+      "series": "FoF Series",
+      "released": "2025-06-08",
+      "community_favorite": false
+    }
+  ]
+}

@@ -345,6 +345,14 @@
       "community_favorite": true
     },
     {
+      "id": "pop2",
+      "name": "Pop Model 👀📡",
+      "version": "v11",
+      "series": "SC Series",
+      "released": "2026-03-21",
+      "community_favorite": false
+    },
+    {
       "id": "nid22",
       "name": "Nuggets in Dijon 👀📡",
       "version": "v11",

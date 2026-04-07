@@ -337,6 +337,14 @@
       "community_favorite": false
     },
     {
+      "id": "opv9",
+      "name": "Off Policy v9 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-07",
+      "community_favorite": false
+    },
+    {
       "id": "ms2",
       "name": "Macrostiff 👀📡",
       "version": "v11",
@@ -358,7 +366,7 @@
       "version": "v11",
       "series": "DS Series",
       "released": "2025-12-11",
-      "community_favorite": true
+      "community_favorite": false
     },
     {
       "id": "nn222",
@@ -390,7 +398,7 @@
       "version": "v11",
       "series": "SC Series",
       "released": "2026-03-24",
-      "community_favorite": false
+      "community_favorite": true
     },
     {
       "id": "nid22",

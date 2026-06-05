@@ -395,10 +395,9 @@
     {
       "id": "op16dv2",
       "name": "Off Policy v16 Deep V2 👀📡",
-      "version": "v16",
+      "version": "v15",
       "series": "OP Series",
       "released": "2026-05-26",
-      "download_url": "https://www.dropbox.com/scl/fi/kym58rqivlq8dbhry41ep/op16dv2_driving_tinygrad.pkl?rlkey=mmd4fgdgiqgr0hfzjmr0p8xi9&st=j8b3tfiz&dl=1",
       "community_favorite": false
     },
     {

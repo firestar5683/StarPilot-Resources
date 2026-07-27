@@ -575,6 +575,14 @@
       "series": "OP Series",
       "released": "2026-06-17",
       "community_favorite": false
+    },
+    {
+      "id": "gyhu",
+      "name": "GYHU 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-25",
+      "community_favorite": false
     }
   ]
 }

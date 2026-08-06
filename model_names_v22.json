@@ -591,6 +591,14 @@
       "series": "OP Series",
       "released": "2026-07-25",
       "community_favorite": false
+    },
+    {
+      "id": "rdf",
+      "name": "Regret Driven Framework 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-05",
+      "community_favorite": false
     }
   ]
 }

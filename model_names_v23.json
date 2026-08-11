@@ -409,15 +409,7 @@
       "community_favorite": false
     },
     {
-      "id": "deeprl3v23_",
-      "name": "Deep RL 3 👀📡",
-      "version": "v15",
-      "series": "OP Series",
-      "released": "2026-06-09",
-      "community_favorite": false
-    },
-    {
-      "id": "deeprl3v23_",
+      "id": "deeprl33",
       "name": "Deep RL 3 👀📡",
       "version": "v15",
       "series": "OP Series",
@@ -598,6 +590,14 @@
       "version": "v15",
       "series": "OP Series",
       "released": "2026-08-05",
+      "community_favorite": false
+    },
+    {
+      "id": "rdf23",
+      "name": "Regret Driven Framework V2 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-10",
       "community_favorite": false
     },
     {

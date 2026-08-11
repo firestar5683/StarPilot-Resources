@@ -1,0 +1,500 @@
+{
+  "models": [
+    {
+      "id": "tr14223",
+      "name": "TR14 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-06-30",
+      "community_favorite": false
+    },
+    {
+      "id": "tr15223",
+      "name": "TR15 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-07-11",
+      "community_favorite": false
+    },
+    {
+      "id": "letr223",
+      "name": "LeTR 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-07-14",
+      "community_favorite": false
+    },
+    {
+      "id": "spacelab22223",
+      "name": "Space Lab 2 👀📡",
+      "version": "v8",
+      "series": "SL Series",
+      "released": "2025-07-26",
+      "community_favorite": false
+    },
+    {
+      "id": "vikander223",
+      "name": "Vikander 👀📡",
+      "version": "v8",
+      "series": "Custom Series",
+      "released": "2025-05-03",
+      "community_favorite": false
+    },
+    {
+      "id": "fof223",
+      "name": "Filet-O-Fish 👀📡",
+      "version": "v9",
+      "series": "FoF Series",
+      "released": "2025-03-07",
+      "community_favorite": false
+    },
+    {
+      "id": "vfof223",
+      "name": "Vegetarian-Filet-O-Fish 👀📡",
+      "version": "v9",
+      "series": "FoF Series",
+      "released": "2025-06-21",
+      "community_favorite": false
+    },
+    {
+      "id": "dtr223",
+      "name": "Down To Ride 👀📡",
+      "version": "v8",
+      "series": "DTR Series",
+      "released": "2025-07-08",
+      "community_favorite": false
+    },
+    {
+      "id": "dtr6223",
+      "name": "Down To Ride v6 👀📡",
+      "version": "v10",
+      "series": "DTR Series",
+      "released": "2025-08-12",
+      "community_favorite": false
+    },
+    {
+      "id": "uvdtr6223",
+      "name": "UV DTR v6 👀📡",
+      "version": "v10",
+      "series": "DTR Series",
+      "released": "2025-08-13",
+      "community_favorite": false
+    },
+    {
+      "id": "sp2223",
+      "name": "Steam Powered 👀📡",
+      "version": "v10",
+      "series": "SP Series",
+      "released": "2025-08-16",
+      "community_favorite": false
+    },
+    {
+      "id": "fp223",
+      "name": "Falling Phoenix 👀📡",
+      "version": "v10",
+      "series": "Custom Series",
+      "released": "2025-08-14",
+      "community_favorite": false
+    },
+    {
+      "id": "kv223",
+      "name": "Kumar's Vibe 👀📡",
+      "version": "v10",
+      "series": "Custom Series",
+      "released": "2025-08-16",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm3223",
+      "name": "Green Watermelon v3 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-08-22",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm5223",
+      "name": "Green Watermelon v5 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-09",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm6223",
+      "name": "Green Watermelon v6 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-20",
+      "community_favorite": false
+    },
+    {
+      "id": "gwm8223",
+      "name": "Green Watermelon v8 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-28",
+      "community_favorite": true
+    },
+    {
+      "id": "gwm9223",
+      "name": "Green Watermelon v9 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-10-21",
+      "community_favorite": false
+    },
+    {
+      "id": "cgwm223",
+      "name": "Cool Green Watermelon 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-10-24",
+      "community_favorite": false
+    },
+    {
+      "id": "bd223",
+      "name": "Firehose 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-08-31",
+      "community_favorite": false
+    },
+    {
+      "id": "nr223",
+      "name": "Neurips 👀📡",
+      "version": "v11",
+      "series": "NR Series",
+      "released": "2025-11-12",
+      "community_favorite": false
+    },
+    {
+      "id": "tcp2223",
+      "name": "The Cool People v2 👀📡",
+      "version": "v11",
+      "series": "TCP Series",
+      "released": "2025-10-09",
+      "community_favorite": false
+    },
+    {
+      "id": "tcp3223",
+      "name": "The Cool People v3 👀📡",
+      "version": "v11",
+      "series": "TCP Series",
+      "released": "2025-10-10",
+      "community_favorite": false
+    },
+    {
+      "id": "fbw223",
+      "name": "Fly By Wire 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-09-04",
+      "community_favorite": false
+    },
+    {
+      "id": "nevada223",
+      "name": "Nevada 👀📡",
+      "version": "v11",
+      "series": "NV Series",
+      "released": "2025-09-07",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi4223",
+      "name": "Watermelon Indigo v4 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-12-22",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi523",
+      "name": "Watermelon Indigo v5 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-12-29",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi623",
+      "name": "Watermelon Indigo v6 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2025-12-30",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi723",
+      "name": "Watermelon Indigo v7 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-01",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi7223",
+      "name": "Watermelon Indigo v7 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-01",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi823",
+      "name": "Watermelon Indigo v8 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-03",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi923",
+      "name": "Watermelon Indigo v9 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-07",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi1023",
+      "name": "Watermelon Indigo v10 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-09",
+      "community_favorite": false
+    },
+    {
+      "id": "wmi1123",
+      "name": "Watermelon Indigo v11 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-13",
+      "community_favorite": false
+    },
+    {
+      "id": "cd21023",
+      "name": "CD210 👀📡",
+      "version": "v11",
+      "series": "WM Series",
+      "released": "2026-01-31",
+      "community_favorite": false
+    },
+    {
+      "id": "op223",
+      "name": "Off Policy v2 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-20",
+      "community_favorite": false
+    },
+    {
+      "id": "op323",
+      "name": "Off Policy v3 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-26",
+      "community_favorite": false
+    },
+    {
+      "id": "op423",
+      "name": "Off Policy v4 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-02-27",
+      "community_favorite": false
+    },
+    {
+      "id": "op523",
+      "name": "Off Policy v5 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-03-14",
+      "community_favorite": false
+    },
+    {
+      "id": "op623",
+      "name": "Off Policy v6 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-03-28",
+      "community_favorite": false
+    },
+    {
+      "id": "opv73",
+      "name": "Off Policy v7 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-01",
+      "community_favorite": false
+    },
+    {
+      "id": "opv83",
+      "name": "Off Policy v8 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-03",
+      "community_favorite": false
+    },
+    {
+      "id": "opv93",
+      "name": "Off Policy v9 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-07",
+      "community_favorite": false
+    },
+    {
+      "id": "opv103",
+      "name": "Off Policy v10 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-10",
+      "community_favorite": false
+    },
+    {
+      "id": "opv113",
+      "name": "Off Policy v11 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-18",
+      "community_favorite": false
+    },
+    {
+      "id": "opv123",
+      "name": "Off Policy v12 👀📡",
+      "version": "v12",
+      "series": "OP Series",
+      "released": "2026-04-20",
+      "community_favorite": false
+    },
+    {
+      "id": "opv133",
+      "name": "Off Policy v13 👀📡",
+      "version": "v14",
+      "series": "OP Series",
+      "released": "2026-05-05",
+      "community_favorite": false
+    },
+    {
+      "id": "op163",
+      "name": "Off Policy v16 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-05-19",
+      "community_favorite": false
+    },
+    {
+      "id": "op16d3",
+      "name": "Off Policy v16 Deep 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-05-20",
+      "community_favorite": false
+    },
+    {
+      "id": "op16dv23",
+      "name": "Off Policy v16 Deep V2 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-05-26",
+      "community_favorite": false
+    },
+    {
+      "id": "rlv1dl3",
+      "name": "RL V1 Lateral Only 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-03",
+      "community_favorite": false
+    },
+    {
+      "id": "deeprl33",
+      "name": "Deep RL 3 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-09",
+      "community_favorite": false
+    },
+    {
+      "id": "ms23",
+      "name": "Macrostiff 👀📡",
+      "version": "v11",
+      "series": "MS Series",
+      "released": "2026-01-01",
+      "community_favorite": false
+    },
+    {
+      "id": "pp2223",
+      "name": "Plan Plus v2 👀📡",
+      "version": "v11",
+      "series": "PL Series",
+      "released": "2025-12-11",
+      "community_favorite": false
+    },
+    {
+      "id": "ds2223",
+      "name": "Dark Souls v2 👀📡",
+      "version": "v11",
+      "series": "DS Series",
+      "released": "2025-12-11",
+      "community_favorite": false
+    },
+    {
+      "id": "nn2223",
+      "name": "North Nevada v2 👀📡",
+      "version": "v11",
+      "series": "NV Series",
+      "released": "2025-10-08",
+      "community_favorite": false
+    },
+    {
+      "id": "sc23",
+      "name": "South Carolina 👀📡",
+      "version": "v11",
+      "series": "SC Series",
+      "released": "2026-01-08",
+      "community_favorite": true
+    },
+    {
+      "id": "pop23",
+      "name": "Pop Model 👀📡",
+      "version": "v11",
+      "series": "SC Series",
+      "released": "2026-03-21",
+      "community_favorite": false
+    },
+    {
+      "id": "pop223",
+      "name": "Pop Model V2 👀📡",
+      "version": "v11",
+      "series": "SC Series",
+      "released": "2026-03-24",
+      "community_favorite": true
+    },
+    {
+      "id": "nid223",
+      "name": "Nuggets in Dijon 👀📡",
+      "version": "v11",
+      "series": "NUG Series",
+      "released": "2025-10-09",
+      "community_favorite": false
+    },
+    {
+      "id": "kerrygold223",
+      "name": "Kerrygold 👀📡",
+      "version": "v9",
+      "series": "FoF Series",
+      "released": "2025-06-08",
+      "community_favorite": false
+    },
+    {
+      "id": "deeprl3v23",
+      "name": "Deep RL 3 V2 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-17",
+      "community_favorite": false
+    }
+  ]
+}

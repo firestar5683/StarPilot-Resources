@@ -409,11 +409,91 @@
       "community_favorite": false
     },
     {
-      "id": "deeprl33",
+      "id": "deeprl3v23_",
       "name": "Deep RL 3 👀📡",
       "version": "v15",
       "series": "OP Series",
       "released": "2026-06-09",
+      "community_favorite": false
+    },
+    {
+      "id": "deeprl3v23_",
+      "name": "Deep RL 3 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-09",
+      "community_favorite": false
+    },
+    {
+      "id": "deeprl333",
+      "name": "Deep RL 3 V3 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-30",
+      "community_favorite": false
+    },
+    {
+      "id": "rl343",
+      "name": "Rebel Legion 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-22",
+      "community_favorite": false
+    },
+    {
+      "id": "drl3",
+      "name": "Divided RL 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-01",
+      "community_favorite": false
+    },
+    {
+      "id": "nopp3",
+      "name": "No PP 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-26",
+      "community_favorite": false
+    },
+    {
+      "id": "tobyrl3",
+      "name": "Toby RL 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-06-28",
+      "community_favorite": false
+    },
+    {
+      "id": "michael-rl3",
+      "name": "Michael RL 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-17",
+      "community_favorite": false
+    },
+    {
+      "id": "michael-rl23",
+      "name": "Michael RL V2 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-17",
+      "community_favorite": false
+    },
+    {
+      "id": "karnbir3",
+      "name": "Karnbir 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-21",
+      "community_favorite": false
+    },
+    {
+      "id": "karnbir23",
+      "name": "Karnbir V2 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-22",
       "community_favorite": false
     },
     {
@@ -494,6 +574,46 @@
       "version": "v15",
       "series": "OP Series",
       "released": "2026-06-17",
+      "community_favorite": false
+    },
+    {
+      "id": "rh3",
+      "name": "Rebellious Hope 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-27",
+      "community_favorite": false
+    },
+    {
+      "id": "gyhu3",
+      "name": "GYHU 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-07-25",
+      "community_favorite": false
+    },
+    {
+      "id": "rdfv23",
+      "name": "Regret Driven Framework 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-05",
+      "community_favorite": false
+    },
+    {
+      "id": "rdf43",
+      "name": "Regret Driven Framework V4 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-10",
+      "community_favorite": false
+    },
+    {
+      "id": "rdf33",
+      "name": "Regret Driven Framework V3 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-10",
       "community_favorite": false
     }
   ]

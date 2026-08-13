@@ -631,6 +631,14 @@
       "series": "OP Series",
       "released": "2026-08-11",
       "community_favorite": false
+    },
+    {
+      "id": "tsf",
+      "name": "Terrific Super Fantastic 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-12",
+      "community_favorite": false
     }
   ]
 }

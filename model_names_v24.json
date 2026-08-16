@@ -633,6 +633,22 @@
       "community_favorite": false
     },
     {
+      "id": "tsf",
+      "name": "Terrific Super Fantastic 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-12",
+      "community_favorite": false
+    },
+    {
+      "id": "tsfdo",
+      "name": "Terrific Super Fantastic Do Over 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-15",
+      "community_favorite": false
+    },
+    {
       "id": "lebowski3",
       "name": "Lebowski 👀📡",
       "version": "v15",

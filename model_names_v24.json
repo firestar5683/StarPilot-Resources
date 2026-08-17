@@ -659,6 +659,18 @@
       "artifact_size": 1775180479,
       "artifact_sha256": "c0d67b1c35cdb69b133d413115009190d43fd7e41645de53b28f40c049ba6c85",
       "uses_external_gpu": true
+    },
+    {
+      "id": "tt-driving",
+      "name": "TT Driving 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-17",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1777629626,
+      "artifact_sha256": "e6762b6294932b69fbd80beb155815ca113bd3330862c546f727be46945720a0",
+      "uses_external_gpu": true
     }
   ]
 }

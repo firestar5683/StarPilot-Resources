@@ -671,6 +671,18 @@
       "artifact_size": 1777629626,
       "artifact_sha256": "e6762b6294932b69fbd80beb155815ca113bd3330862c546f727be46945720a0",
       "uses_external_gpu": true
+    },
+    {
+      "id": "tee-time",
+      "name": "Tee Time 👀📡",
+      "version": "v15",
+      "series": "OP Series",
+      "released": "2026-08-23",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1777905032,
+      "artifact_sha256": "25f42fd065802034710578bed065bab9489c7721531038c1dc83c18dda7ecb71",
+      "uses_external_gpu": true
     }
   ]
 }

@@ -683,6 +683,18 @@
       "artifact_size": 1777905032,
       "artifact_sha256": "25f42fd065802034710578bed065bab9489c7721531038c1dc83c18dda7ecb71",
       "uses_external_gpu": true
+    },
+    {
+      "id": "bmrlnapv2",
+      "name": "BMRLNAP V2 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-26",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1780584784,
+      "artifact_sha256": "924e0f2ac3d51445204e592924959cf65d928b3bc7e174a234495c6dd731e392",
+      "uses_external_gpu": true
     }
   ]
 }

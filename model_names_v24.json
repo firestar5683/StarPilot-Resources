@@ -719,6 +719,18 @@
       "artifact_size": 1775230352,
       "artifact_sha256": "6ab74924b852244f480979f8b53869f12eb965c700586acf29ac38656b10e4d9",
       "uses_external_gpu": true
+    },
+    {
+      "id": "remove-avgpoolv4",
+      "name": "Remove AvgPool V4 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-26",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1780584784,
+      "artifact_sha256": "42354859df352ef19577b2c645150f92b8a29e38c6207d0b651bbae1ddc0ffb4",
+      "uses_external_gpu": true
     }
   ]
 }

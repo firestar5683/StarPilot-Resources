@@ -731,6 +731,66 @@
       "artifact_size": 1780584784,
       "artifact_sha256": "42354859df352ef19577b2c645150f92b8a29e38c6207d0b651bbae1ddc0ffb4",
       "uses_external_gpu": true
+    },
+    {
+      "id": "remove-avgpoolv3",
+      "name": "Remove AvgPool V3 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-24",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1780584784,
+      "artifact_sha256": "9fdec07ac5824cacbe54b9219a03466a2e47e30f86f70af70d69573c17fc8b90",
+      "uses_external_gpu": true
+    },
+    {
+      "id": "remove-avgpoolv2",
+      "name": "Remove AvgPool V2 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-20",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1788431287,
+      "artifact_sha256": "3ec102d5fd1798db5f6bbd54a3f5d75f4a117d8b9693bf5f782bffea4c796e0e",
+      "uses_external_gpu": true
+    },
+    {
+      "id": "remove-avgpoolv1",
+      "name": "Remove AvgPool V1 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-20",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1788431287,
+      "artifact_sha256": "c1e2233ceb2bd84987bad594a74bdf3e73481c26f43f29e079c170d76d070390",
+      "uses_external_gpu": true
+    },
+    {
+      "id": "rdf-driving",
+      "name": "RDF Driving 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-09",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1777836255,
+      "artifact_sha256": "43bd87499cf606559c77ee2d9fb267fc0cf4e93a7d463b70d4ba6ef636fb5e1b",
+      "uses_external_gpu": true
+    },
+    {
+      "id": "sad",
+      "name": "Sad 😢",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-28",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 787754297,
+      "artifact_sha256": "dfcf83a2b06510f0ca1f303fadce5ef6ba0ff82da32e265643fc36641c935a80",
+      "uses_external_gpu": true
     }
   ]
 }

@@ -707,6 +707,18 @@
       "artifact_size": 1780584784,
       "artifact_sha256": "76beea8dd3e480944b6337ed5e722a99e7ef5e2a2c790a94fc86519c103ac88a",
       "uses_external_gpu": true
+    },
+    {
+      "id": "berightthere",
+      "name": "Be Right Here 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-01",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1775230352,
+      "artifact_sha256": "6ab74924b852244f480979f8b53869f12eb965c700586acf29ac38656b10e4d9",
+      "uses_external_gpu": true
     }
   ]
 }

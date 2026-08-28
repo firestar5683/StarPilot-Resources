@@ -695,6 +695,18 @@
       "artifact_size": 1780584784,
       "artifact_sha256": "924e0f2ac3d51445204e592924959cf65d928b3bc7e174a234495c6dd731e392",
       "uses_external_gpu": true
+    },
+    {
+      "id": "happybirthday",
+      "name": "Happy Birthday 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-08-24",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 1780584784,
+      "artifact_sha256": "76beea8dd3e480944b6337ed5e722a99e7ef5e2a2c790a94fc86519c103ac88a",
+      "uses_external_gpu": true
     }
   ]
 }

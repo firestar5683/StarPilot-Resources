@@ -17,6 +17,18 @@
       "community_favorite": false
     },
     {
+      "id": "tr16223",
+      "name": "TR16 👀📡",
+      "version": "v8",
+      "series": "TR Series",
+      "released": "2025-07-21",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 90328710,
+      "artifact_sha256": "199a56a5d66870ea45b391067eecf5d44c0e10c9e6233ba0d0c43c0faca76d73",
+      "uses_external_gpu": false
+    },
+    {
       "id": "letr223",
       "name": "LeTR 👀📡",
       "version": "v8",

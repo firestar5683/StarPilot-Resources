@@ -826,6 +826,19 @@
       "released": "2026-09-04",
       "community_favorite": false,
       "uses_external_gpu": true
+    },
+    {
+      "id": "cdm",
+      "name": "Cinque Divergence Mask 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-09-08",
+      "community_favorite": false,
+      "uses_external_gpu": true,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 787152087,
+      "artifact_sha256": "1af6fdae04e7aab8cdc71b89df5c01397e09b7da8ea8526e1fc52a8e164b2d03",
+      "artifact_chunk_count": 17
     }
   ]
 }

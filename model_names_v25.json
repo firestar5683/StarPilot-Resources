@@ -1812,6 +1812,19 @@
       "artifact_sha256": "532a6c8ed7da1ef0b798ca360cc2c4c58d6791238ea63d3ca41040ab99782ffb",
       "artifact_chunk_count": 17,
       "uses_external_gpu": true
+    },
+    {
+      "id": "resfit",
+      "name": "ResFit 👀📡",
+      "version": "v16",
+      "series": "OP Series",
+      "released": "2026-10-05",
+      "community_favorite": false,
+      "artifact_format": "tinygrad_single_v1",
+      "artifact_size": 810143960,
+      "artifact_sha256": "88adb78eaba6700e4d1ffae557b8c2aef12417e4127100232db7e4447ce4e1ed",
+      "artifact_chunk_count": 18,
+      "uses_external_gpu": true
     }
   ]
 }
